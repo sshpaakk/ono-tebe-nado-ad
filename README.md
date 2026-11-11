@@ -4,5 +4,5 @@
 
 Для просмотра откройте `index.html` в браузере.
 
-Репозиторий: 
+Репозиторий: https://github.com/sshpaakk/ono-tebe-nado_shpak
 # ono-tebe-nado_shpak
